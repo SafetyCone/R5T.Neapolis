@@ -1,4 +1,8 @@
 R5T.Neapolis - A library of containing command-line command builder functionality.
 
+Extends the core Neapolis functionality by allowing use of strongly-typed paths (from the R5T.NetStandard.IO.Paths.Types dependency) and the process-runner (from the R5T.NetStandard.OS dependency).
+
+
 Goals
 
+Extend the core Neapolis functionality to allow using all R5T.NetStandard functionality to build command-line argument strings.
